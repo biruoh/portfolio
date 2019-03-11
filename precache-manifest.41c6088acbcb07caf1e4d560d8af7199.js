@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6ce0274e61363923c6fc",
-    "url": "/static/css/main.78106891.chunk.css"
+    "revision": "0f02b24ddbde29ac41a0",
+    "url": "/static/css/main.ffb44e9c.chunk.css"
   },
   {
-    "revision": "6ce0274e61363923c6fc",
-    "url": "/static/js/main.6ce0274e.chunk.js"
+    "revision": "0f02b24ddbde29ac41a0",
+    "url": "/static/js/main.0f02b24d.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/static/media/cfconfig.10748799.jpg"
   },
   {
-    "revision": "05bf40896f7fee0ca383702b4f816428",
-    "url": "/static/media/cfstore.05bf4089.jpg"
-  },
-  {
     "revision": "6b4ac80ba34d38b120e8d9b84b1e9d9e",
     "url": "/static/media/makeabag.6b4ac80b.jpg"
+  },
+  {
+    "revision": "05bf40896f7fee0ca383702b4f816428",
+    "url": "/static/media/cfstore.05bf4089.jpg"
   },
   {
     "revision": "db362ddda27a15b43b2b595758c0b465",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/static/media/dot.c26da018.svg"
   },
   {
-    "revision": "8302ae7370d35009d9c9ba8a1289c200",
+    "revision": "a86fa564e60e038b7ad5f09de1760c80",
     "url": "/index.html"
   }
 ];
