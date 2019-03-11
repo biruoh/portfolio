@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "b8fcfdaf120e0f0ee326",
-    "url": "/static/css/main.289203c8.chunk.css"
+    "revision": "6ce0274e61363923c6fc",
+    "url": "/static/css/main.78106891.chunk.css"
   },
   {
-    "revision": "b8fcfdaf120e0f0ee326",
-    "url": "/static/js/main.b8fcfdaf.chunk.js"
+    "revision": "6ce0274e61363923c6fc",
+    "url": "/static/js/main.6ce0274e.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
     "url": "/static/js/runtime~main.fdfcfda2.js"
   },
   {
-    "revision": "9c73e0f245ae359fef38",
-    "url": "/static/js/2.9c73e0f2.chunk.js"
+    "revision": "d0cc79df3e241b0b2d7b",
+    "url": "/static/js/2.d0cc79df.chunk.js"
   },
   {
     "revision": "d068d26e2b1925e2078025a409126934",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/static/media/cfconfig.10748799.jpg"
   },
   {
-    "revision": "6b4ac80ba34d38b120e8d9b84b1e9d9e",
-    "url": "/static/media/makeabag.6b4ac80b.jpg"
-  },
-  {
     "revision": "05bf40896f7fee0ca383702b4f816428",
     "url": "/static/media/cfstore.05bf4089.jpg"
+  },
+  {
+    "revision": "6b4ac80ba34d38b120e8d9b84b1e9d9e",
+    "url": "/static/media/makeabag.6b4ac80b.jpg"
   },
   {
     "revision": "db362ddda27a15b43b2b595758c0b465",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/static/media/dot.c26da018.svg"
   },
   {
-    "revision": "50c44a72d0abeb83adb60bf44f592c78",
+    "revision": "8302ae7370d35009d9c9ba8a1289c200",
     "url": "/index.html"
   }
 ];
