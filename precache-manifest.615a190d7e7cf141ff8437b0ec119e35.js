@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "628e44f91671df8d537e",
-    "url": "/static/css/main.78cd7c77.chunk.css"
+    "revision": "38d61b8b2563694ec805",
+    "url": "/static/css/main.3d16c12a.chunk.css"
   },
   {
-    "revision": "628e44f91671df8d537e",
-    "url": "/static/js/main.628e44f9.chunk.js"
+    "revision": "38d61b8b2563694ec805",
+    "url": "/static/js/main.38d61b8b.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -40,6 +40,10 @@ self.__precacheManifest = [
     "url": "/static/media/cfstore.05bf4089.jpg"
   },
   {
+    "revision": "1e2d71f7fd7a8500e7f913c815dcf095",
+    "url": "/static/media/creations.1e2d71f7.jpg"
+  },
+  {
     "revision": "db362ddda27a15b43b2b595758c0b465",
     "url": "/static/media/quote.db362ddd.svg"
   },
@@ -72,7 +76,27 @@ self.__precacheManifest = [
     "url": "/static/media/dot.c26da018.svg"
   },
   {
-    "revision": "55c98f11ad53d6b5dcdc19e986f12da1",
+    "revision": "b6b782ff71ca36fe0da90a6f8ef94088",
+    "url": "/static/media/linkedin.b6b782ff.svg"
+  },
+  {
+    "revision": "cb0e4cc42629b145c3f27e1ade727464",
+    "url": "/static/media/behance.cb0e4cc4.svg"
+  },
+  {
+    "revision": "23dc4c4a2cac96a4dd1d1eda86275aef",
+    "url": "/static/media/github.23dc4c4a.svg"
+  },
+  {
+    "revision": "646df7f5b94df347241e6cd91d936b45",
+    "url": "/static/media/youtube.646df7f5.svg"
+  },
+  {
+    "revision": "691f450a325175626cc87666d911d239",
+    "url": "/static/media/steam.691f450a.svg"
+  },
+  {
+    "revision": "ab5e2b2df819faf98da7ef374a1a0c38",
     "url": "/index.html"
   }
 ];
