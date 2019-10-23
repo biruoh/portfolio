@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "56df25f706c6688f22a4",
-    "url": "/static/css/main.7236faeb.chunk.css"
+    "revision": "6abebdcd27185a4d9066",
+    "url": "/static/css/main.c77721f9.chunk.css"
   },
   {
-    "revision": "56df25f706c6688f22a4",
-    "url": "/static/js/main.56df25f7.chunk.js"
+    "revision": "6abebdcd27185a4d9066",
+    "url": "/static/js/main.6abebdcd.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/static/js/2.d0cc79df.chunk.js"
   },
   {
-    "revision": "d068d26e2b1925e2078025a409126934",
-    "url": "/static/media/badge.d068d26e.png"
+    "revision": "cbd561a5f4d092b3e6fe50747e120d9e",
+    "url": "/static/media/badge.cbd561a5.png"
   },
   {
     "revision": "bd9805cba4fdbd10e6f9d097dab9225f",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/static/media/steam.691f450a.svg"
   },
   {
-    "revision": "8b8d109c801eb607742d8f60fe5edd4b",
+    "revision": "e56f8cc3157e7fe9c389a7dd895ea889",
     "url": "/index.html"
   }
 ];
